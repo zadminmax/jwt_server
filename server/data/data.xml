@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<user>
+		<id>1</id>
+		<user_name>123</user_name>
+		<password>$2a$04$dnuWEDLez.qfeY7Zs4M1/e4Bci7ZYMVAXVq9clR0kBwAwBZJDu32a</password>
+		<name>张</name>
+		<email>123@123.com</email>
+	</user>
+	<user>
+		<id>2</id>
+		<user_name>zhangsan</user_name>
+		<password>$2a$04$BPMl7vEVivG7Di/14yS8/e9w1CMDYxigMVfl83SKnTaI8JGoQHiSq</password>
+		<name>zhangsan</name>
+		<email>12345@qq.com</email>
+	</user>
+</data>
