@@ -26,5 +26,8 @@
 2. bootstrap
 3. react-cookies
 
-
+### 效果图
 ![](https://github.com/zadminmax/jwt_server/blob/main/C539E5D1-FC2E-4C78-9F65-409D411C42D0.jpeg?raw=true)
+
+### 流程图
+![](https://github.com/zadminmax/jwt_server/blob/main/jwt%20login.jpg?raw=true)
